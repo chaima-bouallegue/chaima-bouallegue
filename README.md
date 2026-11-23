@@ -1,30 +1,36 @@
  <div align="center">
 
-# ✨ WELCOME TO MY GITHUB UNIVERSE ✨
+# ✨ CHAIMA'S COSMIC UNIVERSE ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Chaima+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Welcome+to+my+creative+universe+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Chaima+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Digital+Solutions+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="./Univers%20GitHub%20néon%20de%20Chaïma%20animé.gif" width="480" alt="Chaima's GitHub Universe Animation">
+<img src="./Univers%20GitHub%20néon%20de%20Chaïma%20animé.gif" width="480" alt="Chaima's animated GitHub universe"/>
 
 ### Software Developer | AI Enthusiast | Lifelong Learner
+
+*Where Code Meets Creativity.*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=chaima-bouallegue&color=8B5CF6&style=flat-square&label=PROFILE+VISITS)](https://github.com/chaima-bouallegue)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌌 About Me
 
-Hello! I'm **Chaima Bouallegue**, a software developer passionate about building intelligent and innovative applications.
+Hi! I'm **Chaima Bouallegue**, a software developer with a Master's degree in **Intelligent Web Applications**.
+
+I'm passionate about software engineering and intelligent technologies, with a strong interest in creating useful, innovative and user-centered digital solutions.
 
 - 🎓 Master's Graduate in Intelligent Web Applications
-- 💻 Interested in Software Engineering and Web Development
-- 🤖 Passionate about Artificial Intelligence and Data Science
-- 🌱 Always learning and exploring new technologies
-- 🚀 Motivated by challenges and creative solutions
+- 💻 Interested in Full-Stack Development
+- 🤖 Exploring Artificial Intelligence and Data Science
+- 🧠 Interested in Machine Learning and Natural Language Processing
+- 🚀 Always learning, experimenting and building
 
 ---
 
-## 🛠️ Technologies & Tools
+## ⚡ My Technology Galaxy
 
 ### 💻 Programming Languages
 
@@ -38,48 +44,74 @@ Hello! I'm **Chaima Bouallegue**, a software developer passionate about building
 <img src="https://skillicons.dev/icons?i=spring,angular,fastapi" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,jenkins,linux,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,jenkins" />
+</p>
+
+### 🛠️ Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌟 WeenTime – Intelligent HR Management Platform
-
-A multi-tenant HR management platform integrating intelligent and multilingual voice interaction.
-
-**Technologies:** Java, Spring Boot, Angular, Python, FastAPI, PostgreSQL, Docker.
-
-### 🤖 AI & Data Science
-
-Exploring intelligent solutions, Machine Learning, NLP and AI-powered applications.
-
----
-
-## 📊 GitHub Statistics
+## 🚀 Featured Project
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaima-bouallegue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### 🌟 WeenTime
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaima-bouallegue&layout=compact&theme=tokyonight&hide_border=true" />
+**Intelligent Human Resources Management Platform**
 
 </div>
 
----
+WeenTime is a multi-tenant HR management platform designed to simplify and modernize human resources operations.
+
+**Key highlights:**
+
+- 🏢 Multi-company HR management
+- 👥 Employee, manager and HR management spaces
+- 📅 Leave, attendance and schedule management
+- 🤖 Intelligent AI assistant
+- 🎙️ Multilingual voice interaction
+- 📄 Intelligent document and CV analysis
+
+**Tech Stack:**
+
+`Java` `Spring Boot` `Angular` `Python` `FastAPI` `PostgreSQL` `Docker`
+
 ---
 
-## 🌱 Currently Exploring
+## 🧠 Beyond Development
+
+I'm particularly interested in exploring the intersection of software engineering and artificial intelligence.
 
 - Artificial Intelligence
 - Machine Learning
 - Natural Language Processing
-- Intelligent Web Applications
+- Intelligent Applications
 - Software Architecture
+
+*Curiosity is the beginning of every great creation.*
+
+---
+
+## 📊 My GitHub Universe
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaima-bouallegue&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaima-bouallegue&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaima-bouallegue&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -87,7 +119,7 @@ Exploring intelligent solutions, Machine Learning, NLP and AI-powered applicatio
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chaima-bouallegue/chaima-bouallegue/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
+<img src="https://raw.githubusercontent.com/chaima-bouallegue/chaima-bouallegue/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -98,27 +130,25 @@ Exploring intelligent solutions, Machine Learning, NLP and AI-powered applicatio
 <div align="center">
 
 <a href="mailto:chaimaa.bouallegue@gmail.com">
-  <img src="https://img.shields.io/badge/✉_TRANSMIT_MESSAGE-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/✉_TRANSMIT_MESSAGE-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 <a href="https://www.linkedin.com/in/chaima-bouallegue/">
-  <img src="https://img.shields.io/badge/🌐_LINKEDIN_GALAXY-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN_GALAXY-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://github.com/chaima-bouallegue?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECTS-6B21A8?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-6B21A8?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Coding animation"/>
+*“Great ideas begin with curiosity, grow with creativity, and become reality through code.”*
 
-<br><br>
+<br/>
 
-✨ **"Among the stars of code and data galaxies, I navigate infinite possibilities — always learning, always coding, always reaching for the next cosmic breakthrough."** ✨
+**✨ Thanks for exploring my universe! ✨**
 
-<br><br>
-
----
-
-*🚀 Crafted with stardust and passion in the GitHub cosmos by Chaima Bouallegue*
+*Crafted with passion by Chaima Bouallegue.*
 
 </div>
