@@ -4,33 +4,28 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Chaima+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Digital+Solutions+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="./Univers%20GitHub%20néon%20de%20Chaïma%20animé.gif" width="480" alt="Chaima's animated GitHub universe"/>
+<img src="./Univers%20GitHub%20néon%20de%20Chaïma%20animé.gif" width="480" alt="Chaima's GitHub Universe Animation"/>
 
 ### Software Developer | AI Enthusiast | Lifelong Learner
 
 *Where Code Meets Creativity.*
 
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=chaima-bouallegue&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
 <a href="mailto:chaimaa.bouallegue@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/📧_Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://www.linkedin.com/in/chaima-bouallegue/">
-  <img src="https://img.shields.io/badge/💜_LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/💜_LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://github.com/chaima-bouallegue">
-  <img src="https://img.shields.io/badge/🌌_GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/🌌_GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</div>
 </div>
 
 <div align="center">
-  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+<img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
 </div>
 
 ## 🌌 About Me
@@ -46,7 +41,7 @@ I'm passionate about software engineering and intelligent technologies, with a s
 - 🚀 Always learning, experimenting and building
 
 <div align="center">
-  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+<img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
 </div>
 
 ## ⚡ My Technology Galaxy
@@ -54,29 +49,29 @@ I'm passionate about software engineering and intelligent technologies, with a s
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css" alt="Programming Languages"/>
 </p>
 
 ### ⚙️ Frameworks & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,angular,fastapi" />
+<img src="https://skillicons.dev/icons?i=spring,angular,fastapi" alt="Frameworks"/>
 </p>
 
 ### 🗄️ Databases & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,jenkins" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,jenkins" alt="Databases and Infrastructure"/>
 </p>
 
 ### 🛠️ Tools & Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea" alt="Development Tools"/>
 </p>
 
 <div align="center">
-  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+<img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
 </div>
 
 ## 🚀 Featured Project
@@ -91,7 +86,7 @@ I'm passionate about software engineering and intelligent technologies, with a s
 
 WeenTime is a multi-tenant HR management platform designed to simplify and modernize human resources operations.
 
-**Key highlights:**
+**Key Features:**
 
 - 🏢 Multi-company HR management
 - 👥 Employee, manager and HR management spaces
@@ -105,7 +100,7 @@ WeenTime is a multi-tenant HR management platform designed to simplify and moder
 `Java` `Spring Boot` `Angular` `Python` `FastAPI` `PostgreSQL` `Docker`
 
 <div align="center">
-  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+<img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
 </div>
 
 ## 🧠 Beyond Development
@@ -121,49 +116,36 @@ I'm particularly interested in exploring the intersection of software engineerin
 *Curiosity is the beginning of every great creation.*
 
 <div align="center">
-  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+<img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
 </div>
 
-
-<!-- 🌌 COSMIC GITHUB UNIVERSE -->
+<!-- 🌌 GITHUB STATISTICS -->
 
 <div align="center">
 
-<h2>📊 My GitHub Universe</h2>
+## 📊 My GitHub Universe
 
-<img src="./assets/cosmic-divider-animated.svg" width="85%" alt="Animated Cosmic Divider"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaima-bouallegue&show_icons=true&hide_border=true&bg_color=161B27&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE" width="100%" alt="GitHub Statistics"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaima-bouallegue&layout=compact&hide_border=true&bg_color=161B27&title_color=A78BFA&text_color=C9D1D9" width="100%" alt="Most Used Languages"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h3>🔥 Coding Streak</h3>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaima-bouallegue&hide_border=true&background=161B27&ring=8B5CF6&fire=22D3EE&currStreakNum=A78BFA&sideNums=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=9CA3AF" width="85%" alt="GitHub Coding Streak"/>
+<img src="./assets/cosmic-divider-animated.gif" width="85%" alt="Animated Cosmic Divider"/>
 
 <br/><br/>
 
-<img src="./assets/cosmic-divider-animated.svg" width="85%" alt="Animated Cosmic Divider"/>
+<a href="https://github.com/chaima-bouallegue">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaima-bouallegue&show_icons=true&hide_border=true&bg_color=161B27&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE" alt="GitHub Statistics"/>
+</a><a href="https://github.com/chaima-bouallegue">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaima-bouallegue&layout=compact&hide_border=true&bg_color=161B27&title_color=A78BFA&text_color=C9D1D9" alt="Most Used Languages"/>
+</a>
+
+<br/><br/>
+
+### 🔥 Coding Streak
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaima-bouallegue&hide_border=true&background=161B27&ring=8B5CF6&fire=22D3EE&currStreakNum=A78BFA&sideNums=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=9CA3AF" alt="GitHub Coding Streak"/>
+
+<br/><br/>
+
+<img src="./assets/cosmic-divider-animated.gif" width="85%" alt="Animated Cosmic Divider"/>
 
 </div>
-
-
-
 
 ## 🐍 Cosmic Contribution Serpent
 
@@ -174,7 +156,7 @@ I'm particularly interested in exploring the intersection of software engineerin
 </div>
 
 <div align="center">
-  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+<img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
 </div>
 
 ## 🚀 Interstellar Communication
@@ -184,11 +166,9 @@ I'm particularly interested in exploring the intersection of software engineerin
 <a href="mailto:chaimaa.bouallegue@gmail.com">
 <img src="https://img.shields.io/badge/✉_TRANSMIT_MESSAGE-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://www.linkedin.com/in/chaima-bouallegue/">
 <img src="https://img.shields.io/badge/LINKEDIN_GALAXY-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://github.com/chaima-bouallegue?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-6B21A8?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
@@ -196,8 +176,6 @@ I'm particularly interested in exploring the intersection of software engineerin
 <br/><br/>
 
 *“Great ideas begin with curiosity, grow with creativity, and become reality through code.”*
-
-<br/>
 
 **✨ Thanks for exploring my universe! ✨**
 
