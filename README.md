@@ -10,8 +10,23 @@
 
 *Where Code Meets Creativity.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=chaima-bouallegue&color=8B5CF6&style=flat-square&label=PROFILE+VISITS)](https://github.com/chaima-bouallegue)
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=chaima-bouallegue&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+
+<a href="mailto:chaimaa.bouallegue@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chaima-bouallegue/">
+  <img src="https://img.shields.io/badge/💜_LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/chaima-bouallegue">
+  <img src="https://img.shields.io/badge/🌌_GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 </div>
 
 ---
