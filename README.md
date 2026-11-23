@@ -29,7 +29,9 @@
 </div>
 </div>
 
----
+<div align="center">
+  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+</div>
 
 ## 🌌 About Me
 
@@ -43,7 +45,9 @@ I'm passionate about software engineering and intelligent technologies, with a s
 - 🧠 Interested in Machine Learning and Natural Language Processing
 - 🚀 Always learning, experimenting and building
 
----
+<div align="center">
+  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+</div>
 
 ## ⚡ My Technology Galaxy
 
@@ -71,7 +75,9 @@ I'm passionate about software engineering and intelligent technologies, with a s
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea" />
 </p>
 
----
+<div align="center">
+  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+</div>
 
 ## 🚀 Featured Project
 
@@ -98,7 +104,9 @@ WeenTime is a multi-tenant HR management platform designed to simplify and moder
 
 `Java` `Spring Boot` `Angular` `Python` `FastAPI` `PostgreSQL` `Docker`
 
----
+<div align="center">
+  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+</div>
 
 ## 🧠 Beyond Development
 
@@ -112,8 +120,9 @@ I'm particularly interested in exploring the intersection of software engineerin
 
 *Curiosity is the beginning of every great creation.*
 
----
-
+<div align="center">
+  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+</div>
 ## 📊 My GitHub Universe
 
 <div align="center">
@@ -128,7 +137,9 @@ I'm particularly interested in exploring the intersection of software engineerin
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+</div>
 
 ## 🐍 Cosmic Contribution Serpent
 
@@ -138,7 +149,9 @@ I'm particularly interested in exploring the intersection of software engineerin
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
+</div>
 
 ## 🚀 Interstellar Communication
 
