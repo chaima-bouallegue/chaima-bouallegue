@@ -81,6 +81,15 @@ Exploring intelligent solutions, Machine Learning, NLP and AI-powered applicatio
 - Software Architecture
 
 ---
+---
+
+## 🐍 Cosmic Contribution Serpent
+
+<div align="center">
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/chaima-bouallegue/chaima-bouallegue/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <div align="center">
 
