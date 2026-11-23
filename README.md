@@ -71,6 +71,7 @@ Exploring intelligent solutions, Machine Learning, NLP and AI-powered applicatio
 </div>
 
 ---
+---
 
 ## 🌱 Currently Exploring
 
@@ -81,24 +82,43 @@ Exploring intelligent solutions, Machine Learning, NLP and AI-powered applicatio
 - Software Architecture
 
 ---
----
 
 ## 🐍 Cosmic Contribution Serpent
 
 <div align="center">
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/chaima-bouallegue/chaima-bouallegue/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/chaima-bouallegue/chaima-bouallegue/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
 
 </div>
 
+---
+
+## 🚀 Interstellar Communication
+
 <div align="center">
 
-### 💜 Let's Connect & Build Something Amazing!
+<a href="mailto:chaimaa.bouallegue@gmail.com">
+  <img src="https://img.shields.io/badge/✉_TRANSMIT_MESSAGE-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/chaima-bouallegue/">
+  <img src="https://img.shields.io/badge/🌐_LINKEDIN_GALAXY-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/chaima-bouallegue?tab=repositories">
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECTS-6B21A8?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaima-bouallegue)
+<br><br>
 
-✨ Thanks for visiting my GitHub Universe! ✨
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Coding animation"/>
 
-**Keep Learning. Keep Building. Keep Creating. 🚀**
+<br><br>
+
+✨ **"Among the stars of code and data galaxies, I navigate infinite possibilities — always learning, always coding, always reaching for the next cosmic breakthrough."** ✨
+
+<br><br>
+
+---
+
+*🚀 Crafted with stardust and passion in the GitHub cosmos by Chaima Bouallegue*
 
 </div>
