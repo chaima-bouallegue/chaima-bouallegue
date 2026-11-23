@@ -119,33 +119,53 @@ I'm particularly interested in exploring the intersection of software engineerin
 <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
 </div>
 
-<!-- 🌌 GITHUB STATISTICS -->
+
+<!-- COSMIC GITHUB STATISTICS -->
 
 <div align="center">
 
 ## 📊 My GitHub Universe
 
-<img src="./assets/cosmic-divider-animated.gif" width="85%" alt="Animated Cosmic Divider"/>
+<img src="./assets/cosmic-divider.svg" width="85%" alt="Cosmic Divider"/>
 
 <br/><br/>
 
-<a href="https://github.com/chaima-bouallegue">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaima-bouallegue&show_icons=true&hide_border=true&bg_color=161B27&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE" alt="GitHub Statistics"/>
-</a><a href="https://github.com/chaima-bouallegue">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaima-bouallegue&layout=compact&hide_border=true&bg_color=161B27&title_color=A78BFA&text_color=C9D1D9" alt="Most Used Languages"/>
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=chaima-bouallegue&show_icons=true&hide_border=true&bg_color=161B27&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE"
+        width="100%"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaima-bouallegue&layout=compact&hide_border=true&bg_color=161B27&title_color=A78BFA&text_color=C9D1D9"
+        width="100%"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 ### 🔥 Coding Streak
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaima-bouallegue&hide_border=true&background=161B27&ring=8B5CF6&fire=22D3EE&currStreakNum=A78BFA&sideNums=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=9CA3AF" alt="GitHub Coding Streak"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=chaima-bouallegue&hide_border=true&background=161B27&ring=8B5CF6&fire=22D3EE&currStreakNum=A78BFA&sideNums=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=9CA3AF"
+  width="75%"
+  alt="GitHub Coding Streak"
+/>
 
 <br/><br/>
 
-<img src="./assets/cosmic-divider-animated.gif" width="85%" alt="Animated Cosmic Divider"/>
+<img src="./assets/cosmic-divider.svg" width="85%" alt="Cosmic Divider"/>
 
 </div>
+
+
 
 ## 🐍 Cosmic Contribution Serpent
 
