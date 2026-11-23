@@ -123,23 +123,38 @@ I'm particularly interested in exploring the intersection of software engineerin
 <div align="center">
   <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
 </div>
-## 📊 My GitHub Universe
+
+
+<!-- COSMIC GITHUB STATISTICS -->
+
+<h2 align="center">📊 My GitHub Universe</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaima-bouallegue&show_icons=true&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaima-bouallegue&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=chaima-bouallegue&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE" width="100%" alt="GitHub Statistics"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaima-bouallegue&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="100%" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaima-bouallegue&theme=tokyonight&hide_border=true" />
+<h3 align="center">🔥 Coding Streak</h3>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaima-bouallegue&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" width="75%" alt="GitHub Streak"/>
 
 </div>
 
-<div align="center">
-  <img src="./assets/cosmic-divider.svg" width="100%" alt="Cosmic Neon Divider"/>
-</div>
+
 
 ## 🐍 Cosmic Contribution Serpent
 
